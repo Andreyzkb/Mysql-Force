@@ -1,4 +1,5 @@
 # MySQL-Force 🔐🐍
+![8fbc234f-6896-4a93-862e-856faf0a8adf](https://github.com/user-attachments/assets/7a515346-7eb9-4f8f-bfdb-a34603ef1a49)
 
 Ferramenta simples de **brute force MySQL** desenvolvida em **Python 3**, voltada **exclusivamente para CTFs, laboratórios e ambientes autorizados**.
 
